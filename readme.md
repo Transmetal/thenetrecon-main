@@ -1,27 +1,10 @@
 <h1 align="center">
   <br>
-  <a  href="https://github.com/thenurhabib/thenetrecon"><img src="./img/logo.png" width="220px" border="2px" ></a>
-  <br>
   TheNetRecon
   <br>
 </h1>
 
 <h4 align="center">Fastest tool for Enumerate subdomain and network scanning.</h4>
-
-<p align="center">
-  <a href="https://github.com/thenurhabib/thenetrecon/releases">
-    <img src="https://img.shields.io/github/release/thenurhabib/thenetrecon.svg">
-  </a>
-  <a href="https://travis-ci.com/thenurhabib/thenetrecon">
-    <img src="https://img.shields.io/travis/com/thenurhabib/thenetrecon.svg">
-  </a>
-  <a href="https://github.com/thenurhabib/thenetrecon/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed-raw/thenurhabib/thenetrecon.svg">
-  </a>
-</p>
-
-![multiple xss](./img/ss1.png)
-![multiple xss](./img/ss2.png)
 
 <hr>
 
@@ -50,19 +33,10 @@
   - A Records
 - Advance Error Handling
 
-
-
-<br>
-
-![multiple xss](./img/3.png)
-
-<br>
-
-
 ### Documentation
 ### install
 ```yaml
-git clone https://github.com/thenurhabib/thenetrecon.git
+git clone https://github.com/Transmetal/thenetrecon-main
 cd thenetrecon
 python -m pip install -r requirements.txt
 python3 thenetrecon.py --help
@@ -88,16 +62,3 @@ OPTIONS:
                                                                         
 ```
 <br>
-
-![multiple xss](./img/usage.png)
-
-### Author
-```yaml
-Name       : Md. Nur habib
-Medium     : thenurhabib.medium.com
-Twitter    : https://twitter.com/thenurhab1b
-HackerRank : https://www.hackerrank.com/thenurhabib
-
-```
-
-##### Thank You.
